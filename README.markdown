@@ -49,7 +49,7 @@
 ### Step 2: Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/<your-username>/password-hasher.git
+git clone https://github.com/techcorp/password_hasher.git
 cd password-hasher
 ```
 
