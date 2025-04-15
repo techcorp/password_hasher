@@ -219,7 +219,7 @@ Suggestions:
 
 For questions or support, contact Technical Corp via:
 - **GitHub Issues**: Open an issue in this repository.
-- **Email**: [Insert Technical Corp email, if applicable].
+- **Email**: technicalcorp700@gmail.com.
 
 ---
 
